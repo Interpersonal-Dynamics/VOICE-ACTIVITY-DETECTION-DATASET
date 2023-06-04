@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Voice-Activity-Detection Dataset
+message: >-
+  This dataset is a collaborative effort between Prof. Hong
+  and the UNIST Data Mining Lab. The dataset comprises voice
+  activity data collected from 15 groups, each consisting of
+  three members (a total of 45 undergraduate students, with
+  gender balance considered). The data was collected using
+  commercial voice-recording sensors that were hung around
+  the participants' necks. The sensors recorded univariate
+  frequency data at a sampling rate of 100 Hz with 12
+  quantization bits. 
+type: dataset
+authors:
+  - given-names: Hyewon
+    family-names: Kang
+    email: hwkang91@unist.ac.kr
+    affiliation: UNIST
+  - given-names: 'Dongcheol '
+    family-names: Lim
+    affiliation: UNIST
+    email: dongclim@unist.ac.kr
+  - given-names: 'Woonki '
+    family-names: Hong
+    email: woonki@konkook.ac.kr
+    affiliation: Konkuk University
+  - given-names: 'Junghye '
+    family-names: Lee
+    email: junghye@snu.ac.kr
+    affiliation: Seoul National University
