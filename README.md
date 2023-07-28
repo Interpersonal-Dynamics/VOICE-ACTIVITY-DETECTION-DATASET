@@ -18,18 +18,16 @@ The sensors hung from participants’ necks and collected univariate frequency d
 
 ### Overall structure of conversation scenarios
 
-(Insert Figure 1 here)
-
 Each dataset was manually labeled using binary coding to indicate whether the recording devices captured a person speaking (labeled as 1) or not (labeled as 0).
 
-## How to Use the Dataset
+## How to Get Access the Dataset
 
-(Provide instructions on how to use the dataset here)
+We only release the dataset for those who intend to use the dataset for research purposes only. You are not redistribute the data without our permission. Those who wish to get access, please submit the below google form.
+
+https://forms.gle/Lt1pVvsK7qhKo8sb8
 
 ## License
 
 This dataset is protected with the most strict license (CC-BY-NC-ND-4.0). No commercial, no derivatives of the data, give appropriate credit when used. This dataset is for RESEARCH PURPOSES only. You are not supposed to redistribute the data without our permission.
 
-## Contact
 
-(Provide contact information here)
